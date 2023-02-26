@@ -1,3 +1,4 @@
+
 punny_story = 'punny story'
 if punny_story == 'punny story':
     new_punny_story = 'new_punny_story'
