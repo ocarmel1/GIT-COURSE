@@ -1,0 +1,1 @@
+print_funny_story(200,300,400)
