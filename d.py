@@ -1,1 +1,1 @@
-print_childhood_story("king")
+print_childhood_story("tohar")
