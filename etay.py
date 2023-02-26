@@ -1,3 +1,3 @@
 def print_funny_store():
     print("ohad ahh")
-   print(5)
+   print(1)
