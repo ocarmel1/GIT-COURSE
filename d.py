@@ -1,1 +1,1 @@
-print_funny_story(200,300,400)
+print_funny_story("david:")
