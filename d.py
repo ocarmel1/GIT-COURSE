@@ -1,1 +1,1 @@
-print_funny_story("david:")
+print_funny_story("id:")
