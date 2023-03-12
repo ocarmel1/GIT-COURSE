@@ -1,1 +1,3 @@
-print_funny_story("id:")
+print_childhood_story("king")
+print(1)
+print_childhood_story("tohar")
